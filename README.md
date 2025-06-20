@@ -4,6 +4,7 @@ A list of open source projects that are developed by academics.
 
 | Project | Description |
 |---------|-------------|
+| in-toto | [Description](/projects/in-toto/README.md) |
 | LLVM | [Description](/projects/llvm/README.md) |
 | Nix | [Description](/projects/nix/README.md) |
 

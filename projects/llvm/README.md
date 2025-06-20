@@ -3,23 +3,23 @@
 LLVM began as a research project at the University of Illinois,
 Urbana-Champaign.
 
-## Development Today
+## Current Status
 
 TODO
 
 ## Publications
 
-"LLVM: A Compilation Framework for Lifelong Program Analysis & Transformation",
-Chris Lattner and Vikram Adve. Proceedings of the 2004 International Symposium
-on Code Generation and Optimization (CGO'04), Palo Alto, California, Mar. 2004.
+Lattner, C., & Adve, V. (2004, March). LLVM: A compilation framework for
+lifelong program analysis & transformation. In International symposium on code
+generation and optimization, 2004. CGO 2004. (pp. 75-86). IEEE.
 
 ```bibtex
-@inproceedings{LLVM:CGO04,
-    author    = {Chris Lattner and Vikram Adve},
-    title     = "{LLVM: A Compilation Framework for Lifelong Program Analysis \& Transformation}",
-    booktitle = "{Proceedings of the 2004 International Symposium on Code Generation and Optimization (CGO'04)}",
-    address   = {Palo Alto, California},
-    month     = {Mar},
-    year      = {2004}
+@inproceedings{lattner2004llvm,
+  title={LLVM: A compilation framework for lifelong program analysis \& transformation},
+  author={Lattner, Chris and Adve, Vikram},
+  booktitle={International symposium on code generation and optimization, 2004. CGO 2004.},
+  pages={75--86},
+  year={2004},
+  organization={IEEE}
 }
 ```
