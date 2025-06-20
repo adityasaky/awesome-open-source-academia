@@ -8,6 +8,7 @@ A list of open source projects that are developed by academics.
 | in-toto | [Description](/projects/in-toto/README.md) |
 | LLVM | [Description](/projects/llvm/README.md) |
 | Nix | [Description](/projects/nix/README.md) |
+| Sigstore | [Description](/projects/sigstore/README.md) |
 | The Update Framework (TUF) | [Description](/projects/the-update-framework/README.md) |
 
 ## Contribute to this list
