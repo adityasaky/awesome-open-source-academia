@@ -6,6 +6,7 @@ A list of open source projects that are developed by academics.
 |---------|-------------|
 | gittuf | [Description](/projects/gittuf/README.md) |
 | in-toto | [Description](/projects/in-toto/README.md) |
+| Keylime | [Description](/projects/keylime/README.md) |
 | LLVM | [Description](/projects/llvm/README.md) |
 | Nix | [Description](/projects/nix/README.md) |
 | Sigstore | [Description](/projects/sigstore/README.md) |
