@@ -8,6 +8,7 @@ A list of open source projects that are developed by academics.
 | Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Yes |
 | gittuf | [Description](/projects/gittuf/README.md) | Yes | Yes | Yes |
 | in-toto | [Description](/projects/in-toto/README.md) | Yes | Yes | Yes |
+| Kerberos | Description | | | |
 | Keylime | [Description](/projects/keylime/README.md) | Yes | Yes | Yes |
 | LLVM | [Description](/projects/llvm/README.md) | Yes | Yes | Yes |
 | Nix | [Description](/projects/nix/README.md) | Yes | Yes | Yes |
