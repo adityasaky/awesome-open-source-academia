@@ -6,6 +6,7 @@ A list of open source projects that are developed by academics.
 |---------|-------------|------------|----------------------|--------------------|
 | AFL++ | [Description](/projects/aflplusplus/README.md) | Yes | ? | No |
 | Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Yes |
+| CHERI | Description | | | |
 | gittuf | [Description](/projects/gittuf/README.md) | Yes | Yes | Yes |
 | in-toto | [Description](/projects/in-toto/README.md) | Yes | Yes | Yes |
 | Kerberos | Description | | | |
