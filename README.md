@@ -2,17 +2,17 @@
 
 A list of open source projects that are developed by academics.
 
-| Project | Description |
-|---------|-------------|
-| AFL++ | [Description](/projects/aflplusplus/README.md) |
-| Ceph | [Description](/projects/ceph/README.md) |
-| gittuf | [Description](/projects/gittuf/README.md) |
-| in-toto | [Description](/projects/in-toto/README.md) |
-| Keylime | [Description](/projects/keylime/README.md) |
-| LLVM | [Description](/projects/llvm/README.md) |
-| Nix | [Description](/projects/nix/README.md) |
-| Sigstore | [Description](/projects/sigstore/README.md) |
-| The Update Framework (TUF) | [Description](/projects/the-update-framework/README.md) |
+| Project | Description | Maintained | Diverse Stakeholders | Neutral Foundation |
+|---------|-------------|------------|----------------------|--------------------|
+| AFL++ | [Description](/projects/aflplusplus/README.md) | Yes | ? | No |
+| Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Yes |
+| gittuf | [Description](/projects/gittuf/README.md) | Yes | Yes | Yes |
+| in-toto | [Description](/projects/in-toto/README.md) | Yes | Yes | Yes |
+| Keylime | [Description](/projects/keylime/README.md) | Yes | Yes | Yes |
+| LLVM | [Description](/projects/llvm/README.md) | Yes | Yes | Yes |
+| Nix | [Description](/projects/nix/README.md) | Yes | Yes | Yes |
+| Sigstore | [Description](/projects/sigstore/README.md) | Yes | Yes | Yes |
+| The Update Framework (TUF) | [Description](/projects/the-update-framework/README.md) | Yes | Yes | Yes |
 
 ## Contribute to this list
 
