@@ -2,19 +2,19 @@
 
 A list of open source projects that are developed by academics.
 
-| Project | Description | Actively Developed | Diverse Stakeholders | Neutral Foundation | Continually Published |
-|---------|-------------|------------|----------------------|--------------------|----------------------|
-| AFL++ | [Description](/projects/aflplusplus/README.md) | Yes | ? | No | [Yes](https://aflplus.plus/papers/) |
-| Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Is foundation neutral enough? | ? |
-| CHERI | Description | Yes | Yes | CHERI Alliance | Yes |
-| gittuf | [Description](/projects/gittuf/README.md) | Yes | Yes | Yes | Too soon to tell |
-| in-toto | [Description](/projects/in-toto/README.md) | Yes | Yes | Yes | No |
-| Kerberos | Description | Yes | Yes | Yes (IETF standardization) | ? |
-| Keylime | [Description](/projects/keylime/README.md) | Yes | Yes | Yes | ? |
-| LLVM | [Description](/projects/llvm/README.md) | Yes | Yes | Yes | Yes |
-| Nix | [Description](/projects/nix/README.md) | Yes | Yes | Yes | Yes |
-| Sigstore | [Description](/projects/sigstore/README.md) | Yes | Yes | Yes | Yes |
-| The Update Framework (TUF) | [Description](/projects/the-update-framework/README.md) | Yes | Yes | Yes | Yes |
+| Project | Actively Developed | Diverse Stakeholders | Neutral Foundation | Continually Published |
+|---------|--------------------|----------------------|--------------------|-----------------------|
+| AFL++ | Yes | ? | No | [Yes](https://aflplus.plus/papers/) |
+| Ceph | Yes | Very Red Hat focused | Is foundation neutral enough? | ? |
+| CHERI | Yes | Yes | CHERI Alliance | Yes |
+| gittuf | Yes | Yes | Yes | Too soon to tell |
+| in-toto | Yes | Yes | Yes | No |
+| Kerberos | Yes | Yes | Yes (IETF standardization) | ? |
+| Keylime | Yes | Yes | Yes | ? |
+| LLVM | Yes | Yes | Yes | Yes |
+| Nix | Yes | Yes | Yes | Yes |
+| Sigstore | Yes | Yes | Yes | Yes |
+| The Update Framework (TUF) | Yes | Yes | Yes | Yes |
 
 ## Contribute to this list
 
