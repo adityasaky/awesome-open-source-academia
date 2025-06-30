@@ -2,10 +2,10 @@
 
 A list of open source projects that are developed by academics.
 
-| Project | Description | Maintained | Diverse Stakeholders | Neutral Foundation | Continually Published |
+| Project | Description | Actively Developed | Diverse Stakeholders | Neutral Foundation | Continually Published |
 |---------|-------------|------------|----------------------|--------------------|----------------------|
-| AFL++ | [Description](/projects/aflplusplus/README.md) | Yes | ? | No | ? |
-| Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Yes | ? |
+| AFL++ | [Description](/projects/aflplusplus/README.md) | Yes | ? | No | [Yes](https://aflplus.plus/papers/) |
+| Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Is foundation neutral enough? | ? |
 | CHERI | Description | | | | Yes |
 | gittuf | [Description](/projects/gittuf/README.md) | Yes | Yes | Yes | Too soon to tell |
 | in-toto | [Description](/projects/in-toto/README.md) | Yes | Yes | Yes | No |
