@@ -1,6 +1,7 @@
-# Awesome Open Source Projects from Academia
+# Lab Leaks
 
-A list of open source projects that are developed by academics.
+A living collection of software projects that began life through academic
+research but have since escaped the lab.
 
 | Project | Actively Developed | Diverse Stakeholders | Neutral Foundation | Continually Published |
 |---------|--------------------|----------------------|--------------------|-----------------------|
@@ -16,20 +17,17 @@ A list of open source projects that are developed by academics.
 | [Sigstore] | Yes | Yes | Yes | Yes |
 | [The Update Framework (TUF)] | Yes | Yes | Yes | Yes |
 
-## Contribute to this list
+## Contribute
 
-This list is not exhaustive by any means. Please open a pull request to add any
-missing projects. Make sure to add a detailed description in the
-[projects](/projects) directory as well as an entry in this table (sorted
-alphabetically).
+Contributions are welcome! Please open a pull request to add any missing
+projects.
 
 Criteria for inclusion:
 
-- Published in peer reviewed venue
-- Actively maintained beyond publication in peer reviewed venue
-- One of
-  - Original development team includes academics
-  - Actively extended by academics
+- The system must have been at least partially developed originally by academic
+researchers who authored a peer-reviewed publication
+- The system must have demonstrably escaped the lab, such as with adoptions or
+by having an ecosystem
 
 ---
 
