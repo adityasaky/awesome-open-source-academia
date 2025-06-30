@@ -6,10 +6,10 @@ A list of open source projects that are developed by academics.
 |---------|-------------|------------|----------------------|--------------------|----------------------|
 | AFL++ | [Description](/projects/aflplusplus/README.md) | Yes | ? | No | [Yes](https://aflplus.plus/papers/) |
 | Ceph | [Description](/projects/ceph/README.md) | Yes | Very Red Hat focused | Is foundation neutral enough? | ? |
-| CHERI | Description | | | | Yes |
+| CHERI | Description | Yes | Yes | CHERI Alliance | Yes |
 | gittuf | [Description](/projects/gittuf/README.md) | Yes | Yes | Yes | Too soon to tell |
 | in-toto | [Description](/projects/in-toto/README.md) | Yes | Yes | Yes | No |
-| Kerberos | Description | | | | ? |
+| Kerberos | Description | Yes | Yes | Yes (IETF standardization) | ? |
 | Keylime | [Description](/projects/keylime/README.md) | Yes | Yes | Yes | ? |
 | LLVM | [Description](/projects/llvm/README.md) | Yes | Yes | Yes | Yes |
 | Nix | [Description](/projects/nix/README.md) | Yes | Yes | Yes | Yes |
